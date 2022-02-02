@@ -12,5 +12,12 @@
         "faculty": "Computer Engineering",
         "bio": "I love programming!",
         "email": "sabint017@gmail.com"
-    }
+    },
+        {
+        "name": "Abilash Maharjan",
+        "bacth": 2021,
+        "faculty": "Computer Engineering",
+        "bio": "Life is beautiful",
+        "email": "mahaabi01@gmail.com"
+        }
 ]
